@@ -19,6 +19,6 @@ August 16, 2016 - final evaluation.
 ## About Me:
 I am a Final Year Graduate from Mumbai University pursuing my Bachelor's. Very passionate about AI and ML i find tensorflow a great boon for developers like me helping us under the hood to create great Applications. One of the interesting Project i would like to talk about is ChildGrowthMonitor(https://childgrowthmonitor.org) which i am a recently a part of. It is an app that measure the height and arms length of baby to predict the weight and other nutritional information about the baby and help doctors monitor its growth. We analyze 3D point clouds of the baby scan images to find various measurements as much as we can. This type of project excite me the most as it impacts the society directly and this is my small contribution for making the lives of unprivileged children in India and other parts of the world a little better.
 
-Github: https://www.github.com/gitraj666
-Personal Site: www.prithviraj7387.000webhostapp.com
-LinkedIn: linkedin.com/prithviraj-maurya-02aa41106 
+-Github: https://www.github.com/gitraj666
+-Personal Site: www.prithviraj7387.000webhostapp.com
+-LinkedIn: linkedin.com/prithviraj-maurya-02aa41106 
